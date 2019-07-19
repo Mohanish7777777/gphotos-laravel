@@ -1,6 +1,7 @@
 # Google Photos API for laravel
 
 [![Build Status](https://travis-ci.com/Tiththa/gphotos-laravel.svg?token=ipyLe4fTTgA1E3pc5jHb&branch=master)](https://travis-ci.com/Tiththa/gphotos-laravel)
+[![Maintainability](https://api.codeclimate.com/v1/badges/11e8d0bd41359dfab610/maintainability)](https://codeclimate.com/github/Tiththa/gphotos-laravel/maintainability)
 
 https://developers.google.com/photos/
 
