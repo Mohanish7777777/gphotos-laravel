@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.com/Tiththa/gphotos-laravel.svg?token=ipyLe4fTTgA1E3pc5jHb&branch=master)](https://travis-ci.com/Tiththa/gphotos-laravel)
 [![Maintainability](https://api.codeclimate.com/v1/badges/11e8d0bd41359dfab610/maintainability)](https://codeclimate.com/github/Tiththa/gphotos-laravel/maintainability)
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)
 
 https://developers.google.com/photos/
 
